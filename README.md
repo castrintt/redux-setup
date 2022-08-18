@@ -10,14 +10,11 @@ for notes on deploying the project on a live system.
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development
-environment running
+- cd Redux-quick-start
 
-cd Redux-quick-start
+- npm install
 
-npm install
-
-npm run dev
+- npm run dev
 
 
 ## License
