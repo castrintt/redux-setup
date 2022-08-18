@@ -12,7 +12,7 @@ const firstSlice = createSlice({
   name: "Coloque um noma para seu primeiro slice aqui!",
   initialState: INITIAL_STATE,
   reducers: {
-    // crie suas funções reducers aqui!
+    // reducer functions here
     increment(state: InitialState, { payload }: PayloadAction<number>) {
       state.count += payload;
     },
