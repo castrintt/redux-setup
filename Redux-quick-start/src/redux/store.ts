@@ -3,7 +3,7 @@ import firstSlice from "./reducers/firstReducer";
 
 const store = configureStore({
   reducer: {
-    // place your reducers functions here!
+    // place your createSlice functions here!
     counter: firstSlice,
   },
 });
