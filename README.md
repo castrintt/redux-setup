@@ -14,8 +14,6 @@ for notes on deploying the project on a live system.
 
 - npm install
 
-- npm i -D prettier eslint-plugin-prettier eslint-config-prettier
-
 - npm run dev
 
 
